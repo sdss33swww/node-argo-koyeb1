@@ -1,0 +1,15 @@
+{
+  "name": "nodeargo",
+  "main": "deploy.js",
+  "private": false,
+  "scripts": {
+    "start": "node deploy.js"
+  },
+  "dependencies": {
+    "axios": "latest",
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
